@@ -91,7 +91,7 @@ img, video, audio {
 /* span 1/3 of the space, 2% margins */
 .col-1 {
   float: left;
-  width: 33%;
+  width: 35%;
   background: #CCC;
 }
 
